@@ -2138,7 +2138,7 @@ Tuliskan dalam 2-3 kalimat yang jelas dan operasional.`;
               </div>
             </div>
           </div>
-        )}
+        
 
         {/* Form */}
         {showForm && (
