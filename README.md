@@ -1,0 +1,1 @@
+# Jurnal Mengajar - Vite React TypeScript\n\nThis project contains the uploaded `jurnal_mengajar_guru.tsx` as `src/App.tsx`.\n\nTo run locally:\n\n```bash\nnpm install\nnpm run dev\n```\n
